@@ -530,11 +530,6 @@ New Modules
 arista.eos
 ~~~~~~~~~~
 
-No data
-
-
-Ansible.Collections.Ansible Collections.Arista.Eos.Plugins.Modules
-..................................................................
 
 - arista.eos.eos_ospfv3 - OSPFv3 resource module
 
